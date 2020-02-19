@@ -20,7 +20,7 @@ title                    : "IoT Lab Workshop123"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Daniel"
-description              : "An amazing website."
+description              : "An dhs website."
 url                      : "https://github.com/DanielYEHsieh/minimal-mistakes"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
